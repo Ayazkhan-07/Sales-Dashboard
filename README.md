@@ -51,5 +51,5 @@ Customer count of 87 vs target 100, highlighting areas for improvement.
 Ayaz Khan
 📧 ayazriyazahmedkhan@gmail.com
 🌐 https://www.linkedin.com/in/ayazriyazkhan 
-Dashboard Design Principles
+
 
