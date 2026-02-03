@@ -36,6 +36,7 @@ Customer count of 87 vs target 100, highlighting areas for improvement.
 Ayaz Khan
 📧 ayazriyazahmedkhan@gmail.com
 🌐 https://www.linkedin.com/in/ayazriyazkhan 
+<img width="1236" height="644" alt="Screenshot 2026-02-03 164844" src="https://github.com/user-attachments/assets/1b3528e7-08ce-45b0-be17-c2aba30ca0aa" />
 <img width="1310" height="475" alt="image" src="https://github.com/user-attachments/assets/e2d62df4-9a7c-4c70-8379-81ca56a0796b" />
 
 
