@@ -14,8 +14,11 @@ Data Visualization: Visual representation of key trends using charts, conditiona
 
 McDonald's SALES DASHBOARD.xlsx
 │
+
 ├── Inputs       → Contains KPI data such as Sales, Profit, and Customers (Actual vs Target)
+
 ├── Dashboard    → Visual representation and summary of key performance indicators
+
 └── Contacts     → Information about General Managers across regions
 
 
